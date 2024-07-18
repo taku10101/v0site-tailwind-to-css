@@ -1,6 +1,4 @@
-# tailwind-to-css
 ## tailwindcssで構築されたサイトををhtml/cssファイルに変換するプロジェクト
-
 
 ### 環境構築
 
